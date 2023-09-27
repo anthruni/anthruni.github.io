@@ -1,4 +1,3 @@
 # random public things
-[glossary](glossary.md)
-[qualia](qualia.md)
+[glossary\/qualia](glossary.md)
 [advice](generic_advice.md)
