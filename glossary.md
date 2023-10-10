@@ -9,6 +9,7 @@ process for generating words: cgpt-4 has a pretty good handle on etymology, so p
 
 ## words
 **anthruni/omnianthropunus** - *humanity as one organism*. usage: i cannot wait for omnianthropunus to figure out a theory of everything for physics! distinct from the singularity in that it does not need to be totalizing or tied to technological development, just a view of humanity as a collective consciousness.
+**spatiotemporal computing/thought** - instead of or in combination with traditional full res visual/internal monologue thinking, thinking by movement of concepts located in space (ie visualizing a transform, or the shifting of crystals to minimize entropy in some way when trying to solve a physics problem). Distinct from visual thinking in that the concepts are *known* but not rendered fully, and computation is done explicitly by transforms
 
 ## qualia
 #### possibly unusual qualia i've had
