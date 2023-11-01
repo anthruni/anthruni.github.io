@@ -12,6 +12,8 @@ process for generating words: cgpt-4 has a pretty good handle on etymology, so p
 
 **spatiotemporal computing/thought** - instead of or in combination with traditional full res visual/internal monologue thinking, thinking by movement of concepts located in space (ie visualizing a transform, or the shifting of crystals to minimize entropy in some way when trying to solve a physics problem). Distinct from visual thinking in that the concepts are *known* but not rendered fully, and computation is done explicitly by transforms
 
+**nexus** - as the space where the most possibilities are reachable (over time, or space, or another qualifier) - ie the most "general" agent, or the least symmetry-broken state, the most efficient state generator. most things only get close
+
 ## qualia
 #### possibly unusual qualia i've had
 
