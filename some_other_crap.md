@@ -1,0 +1,1 @@
+- https://math.ucr.edu/home/baez/ one of my favorite sites ever. I have spent many glorious hours reading articles here. super intriguing, well explained, high complexity work.
