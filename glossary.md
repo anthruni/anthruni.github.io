@@ -14,6 +14,8 @@ process for generating words: cgpt-4 has a pretty good handle on etymology, so p
 
 **nexus** - as the space where the most possibilities are reachable (over time, or space, or another qualifier) - ie the most "general" agent, or the least symmetry-broken state, the most efficient state generator. most things only get close. *optimally* versatile.
 
+- operiotic/functiotic (???) - like semniotic or ontologic but for/relating to operators and funtions instead of the symbols they operate on
+
 ## qualia
 #### possibly unusual qualia i've had
 
